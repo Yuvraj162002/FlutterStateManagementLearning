@@ -1,18 +1,18 @@
-# flutter_state_management_learning
+# Flutter State Management Demo with Provider
 
-A new Flutter project.
+This section documents the progress and learning resources for state management. The app demonstrates simple state management concepts. Below is a list of topics that have been covered so far:
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+1. **Provider State Management**  
+   Using the [Provider](https://pub.dev/packages/provider) package for managing app state.
 
-A few resources to get you started if this is your first Flutter project:
+   - **Counter Example:**  
+     Increment and display a counter using Provider for state management.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   - **Add Data to List:**  
+     Add items to a list and display them, with state updates handled by Provider.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
 
-# FlutterStateManagementLearning
+Feel free to explore each topic’s respective code samples and explanations in this repository. More state management and advanced topics will be added as learning progresses!
