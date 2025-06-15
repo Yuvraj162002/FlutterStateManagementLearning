@@ -1,4 +1,4 @@
-# Flutter State Management Demo with Provider
+# Flutter State Management.
 
 This section documents the progress and learning resources for state management. The app demonstrates simple state management concepts. Below is a list of topics that have been covered so far:
 
