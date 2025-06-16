@@ -13,6 +13,14 @@ This section documents the progress and learning resources for state management.
    - **Add Data to List:**  
      Add items to a list and display them, with state updates handled by Provider.
 
+   - **Theme Mode Example:**
+      Change the theme mode of the application by clicking on the radio buttons.
+
+Here is the video to show how this **theme mode example** working...
+
+https://github.com/user-attachments/assets/b0fc1bc3-dd46-442f-a273-e2edb1b32b0e
+
+
 ---
 
 Feel free to explore each topic’s respective code samples and explanations in this repository. More state management and advanced topics will be added as learning progresses!
