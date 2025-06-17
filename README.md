@@ -18,6 +18,9 @@ This section documents the progress and learning resources for state management.
 
 Here is the video to show how this **theme mode example** working...
 
+  - **Favourite Demo App Example:**
+     Clicking on the add items from the screen one it add items to the screen 2 using the global state management provider and then deleting from that screen 2 it deleted      from there.
+
 https://github.com/user-attachments/assets/b0fc1bc3-dd46-442f-a273-e2edb1b32b0e
 
 
