@@ -1,8 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_state_management_learning/demo_apps/MyDummyAddContact.dart';
 import 'package:flutter_state_management_learning/state_management/provider/MyDummyAddContactProvider.dart';
 import 'package:provider/provider.dart';
+
+import 'MyDummyAddContact.dart';
 
 class AddNotesScreen extends StatelessWidget {
   const AddNotesScreen({super.key});

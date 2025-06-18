@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_state_management_learning/demo_apps/AddNotesScreen.dart';
+import 'package:flutter_state_management_learning/demo_apps/provider_demo_apps/AddNotesScreen.dart';
 import 'package:flutter_state_management_learning/state_management/provider/MyDummyAddContactProvider.dart';
 import 'package:provider/provider.dart';
 

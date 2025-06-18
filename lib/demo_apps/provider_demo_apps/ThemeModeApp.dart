@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import '../state_management/provider/MyDarkLightModeProvider.dart';
+import '../../state_management/provider/MyDarkLightModeProvider.dart';
 
 class ThemeModeApp extends StatelessWidget {
   const ThemeModeApp({super.key});

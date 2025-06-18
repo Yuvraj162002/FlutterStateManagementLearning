@@ -2,7 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import '../state_management/provider/MyFavouriteAppProvider.dart';
+import '../../state_management/provider/MyFavouriteAppProvider.dart';
+
 
 class MyFavouriteAppSecondScreen extends StatelessWidget {
   const MyFavouriteAppSecondScreen({super.key});

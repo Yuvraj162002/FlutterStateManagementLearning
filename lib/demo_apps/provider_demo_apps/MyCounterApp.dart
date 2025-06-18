@@ -2,7 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import '../state_management/provider/MyCounterAppProvider.dart';
+import '../../state_management/provider/MyCounterAppProvider.dart';
+
 
 class MyCounterApp extends StatelessWidget {
   const MyCounterApp({super.key});
